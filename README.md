@@ -2,4 +2,5 @@
 
 This will be a test file to verify if CODEOWNERS works.
 
-1. Direct edit by Herc53
+1. Direct commit by Herc53
+2. Direct commit by non-owner after CODEOWNERS is enabled.
